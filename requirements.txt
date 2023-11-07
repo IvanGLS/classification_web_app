@@ -1,0 +1,4 @@
+#requirements
+numpy~=1.26.1
+flask~=3.0.0
+keras~=2.14.0
